@@ -1,0 +1,47 @@
+[
+	{
+		"file": "C:\\\\Users\\\\ElDewit\\\\Documents\\\\Unreal Projects\\\\TPS_AidaShahrestani\\\\Source\\\\TPS_AidaShahrestani\\\\MyPawn.cpp",
+		"command": "cl.exe @\"C:\\Users\\ElDewit\\Documents\\Unreal Projects\\TPS_AidaShahrestani\\.vscode\\compileCommands_TPS_AidaShahrestani\\TPS_AidaShahrestani.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\ElDewit\\\\Documents\\\\Unreal Projects\\\\TPS_AidaShahrestani\\\\Source\\\\TPS_AidaShahrestani\\\\MyPawn.h",
+		"command": "cl.exe @\"C:\\Users\\ElDewit\\Documents\\Unreal Projects\\TPS_AidaShahrestani\\.vscode\\compileCommands_TPS_AidaShahrestani\\TPS_AidaShahrestani.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\ElDewit\\\\Documents\\\\Unreal Projects\\\\TPS_AidaShahrestani\\\\Source\\\\TPS_AidaShahrestani\\\\ShooterCharacter.cpp",
+		"command": "cl.exe @\"C:\\Users\\ElDewit\\Documents\\Unreal Projects\\TPS_AidaShahrestani\\.vscode\\compileCommands_TPS_AidaShahrestani\\TPS_AidaShahrestani.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\ElDewit\\\\Documents\\\\Unreal Projects\\\\TPS_AidaShahrestani\\\\Source\\\\TPS_AidaShahrestani\\\\ShooterCharacter.h",
+		"command": "cl.exe @\"C:\\Users\\ElDewit\\Documents\\Unreal Projects\\TPS_AidaShahrestani\\.vscode\\compileCommands_TPS_AidaShahrestani\\TPS_AidaShahrestani.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\ElDewit\\\\Documents\\\\Unreal Projects\\\\TPS_AidaShahrestani\\\\Source\\\\TPS_AidaShahrestani\\\\TPS_AidaShahrestani.Build.cs",
+		"command": "cl.exe @\"C:\\Users\\ElDewit\\Documents\\Unreal Projects\\TPS_AidaShahrestani\\.vscode\\compileCommands_TPS_AidaShahrestani\\TPS_AidaShahrestani.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\ElDewit\\\\Documents\\\\Unreal Projects\\\\TPS_AidaShahrestani\\\\Source\\\\TPS_AidaShahrestani\\\\TPS_AidaShahrestani.cpp",
+		"command": "cl.exe @\"C:\\Users\\ElDewit\\Documents\\Unreal Projects\\TPS_AidaShahrestani\\.vscode\\compileCommands_TPS_AidaShahrestani\\TPS_AidaShahrestani.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\ElDewit\\\\Documents\\\\Unreal Projects\\\\TPS_AidaShahrestani\\\\Source\\\\TPS_AidaShahrestani\\\\TPS_AidaShahrestani.h",
+		"command": "cl.exe @\"C:\\Users\\ElDewit\\Documents\\Unreal Projects\\TPS_AidaShahrestani\\.vscode\\compileCommands_TPS_AidaShahrestani\\TPS_AidaShahrestani.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\ElDewit\\\\Documents\\\\Unreal Projects\\\\TPS_AidaShahrestani\\\\Source\\\\TPS_AidaShahrestani\\\\TPS_AidaShahrestaniGameModeBase.cpp",
+		"command": "cl.exe @\"C:\\Users\\ElDewit\\Documents\\Unreal Projects\\TPS_AidaShahrestani\\.vscode\\compileCommands_TPS_AidaShahrestani\\TPS_AidaShahrestani.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\ElDewit\\\\Documents\\\\Unreal Projects\\\\TPS_AidaShahrestani\\\\Source\\\\TPS_AidaShahrestani\\\\TPS_AidaShahrestaniGameModeBase.h",
+		"command": "cl.exe @\"C:\\Users\\ElDewit\\Documents\\Unreal Projects\\TPS_AidaShahrestani\\.vscode\\compileCommands_TPS_AidaShahrestani\\TPS_AidaShahrestani.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	}
+]
