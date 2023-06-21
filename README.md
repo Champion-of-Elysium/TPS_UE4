@@ -17,4 +17,4 @@ In this project, I try to implement the following components:
 
 You can see the gameplay below but for better experience and to hear the sounds, i recommend to see the full gameplay video in [this link](https://shorturl.at/iEITU).
 
-
+![ThirdPersonShooterDemo](https://github.com/Champion-of-Elysium/UE4_ThirdPersonShooterGame/assets/73826672/4a5a985d-75b7-4086-bb0e-1c75789c574a)
